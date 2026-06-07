@@ -1,0 +1,9 @@
+streamlit
+openai
+pandas
+nltk
+docx2txt
+PyPDF2
+reportlab
+python-dotenv
+requests
